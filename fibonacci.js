@@ -6,4 +6,5 @@ function fibonacci(num) {
     return result;
 }
 
-const fib = fibonacci(5);
+const fib = fibonacci(10);
+console.log(fib);
